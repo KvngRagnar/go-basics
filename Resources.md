@@ -12,6 +12,9 @@
 
     https://codesignal.com/learn/courses/iterations-and-loops-in-go/lessons/mastering-loops-in-go-exploring-for-and-range
 
+# Golang
+
+    https://codesignal.com/learn/paths/go-programming-for-beginners
 
     
 
