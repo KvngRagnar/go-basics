@@ -16,6 +16,6 @@
 
     https://codesignal.com/learn/paths/go-programming-for-beginners
 
-    njkj
+    njkj name
     46a0694ea43962a8d1ae7617c0ff7ecca16ab8c8
 
